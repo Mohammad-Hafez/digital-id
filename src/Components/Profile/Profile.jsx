@@ -74,7 +74,7 @@ export default function Profile() {
         </div>
         <div className="socialMedia">
           <h5 className='text-light address-header mx-auto px-4 pb-1 mb-1'>
-          {language === 'en' ? 'SOCIAL MEDIA' : 'عناوين'}
+          {language === 'en' ? 'SOCIAL MEDIA' : 'وسائل التواصل الأجتماعي'}
             </h5>
           <div className="social-icons">
             <Icon icon={instagram} className='social-icon-instagram p-2 d-flex align-items-center justify-content-center rounded-circle mx-1 cursor-pointer' size={23}></Icon>
